@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Digital Electronics</title>
+
+</head>
+
+<body>
+
+<h1>Contact Me</h5>
+<a href="mailto:lysonmwale9@gmail.com">Send an Email!</a>
+
+</body>
